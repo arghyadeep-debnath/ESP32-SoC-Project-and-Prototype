@@ -34,7 +34,7 @@ const char *password = "INVENTOAIOFFLINK";
 WebServer server(80);
 
 const int ledPin18 = 18; // GPIO18 pin G18
-const int ledPin19 = 19; // GPIO19 pin g19
+const int ledPin19 = 19; // GPIO19 pin G19
 bool ledState18 = LOW;
 bool ledState19 = LOW;
 
